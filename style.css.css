@@ -1,0 +1,25 @@
+/*class select*/
+.mybox{
+    height: 500px;
+    background-color: rgb(244, 239, 239);
+    width: 30%;
+    color: rgb(84, 137, 229);
+    margin-left: 5%;
+    margin-right: 10%;
+    margin-top: 5%;
+    border:dotted bisque;
+    border-radius: 16px;
+    
+
+}
+.hero{
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-top: 30px;
+}
+.plan{
+    padding-bottom: 5em;
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-top: 5em;
+}
